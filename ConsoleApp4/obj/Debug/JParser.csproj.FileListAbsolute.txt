@@ -1,0 +1,8 @@
+D:\Parser\JParser\ConsoleApp4\bin\Debug\JParser.exe.config
+D:\Parser\JParser\ConsoleApp4\bin\Debug\JParser.exe
+D:\Parser\JParser\ConsoleApp4\bin\Debug\JParser.pdb
+D:\Parser\JParser\ConsoleApp4\obj\Debug\JParser.csproj.AssemblyReference.cache
+D:\Parser\JParser\ConsoleApp4\obj\Debug\JParser.csproj.SuggestedBindingRedirects.cache
+D:\Parser\JParser\ConsoleApp4\obj\Debug\JParser.csproj.CoreCompileInputs.cache
+D:\Parser\JParser\ConsoleApp4\obj\Debug\JParser.exe
+D:\Parser\JParser\ConsoleApp4\obj\Debug\JParser.pdb
